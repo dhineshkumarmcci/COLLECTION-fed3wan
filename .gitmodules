@@ -19,21 +19,6 @@
 [submodule "libraries/arduino-lmic"]
 	path = libraries/arduino-lmic
 	url = git@github.com:mcci-catena/arduino-lmic.git
-[submodule "extras/Arduino_Core_STM32"]
-	path = extras/Arduino_Core_STM32
-	url = git@github.com:mcci-catena/Arduino_Core_STM32.git
-[submodule "extras/bootloader"]
-	path = extras/bootloader
-	url = git@github.com:mcci-catena/bootloader.git
-[submodule "extras/tools-build-with-cli"]
-	path = extras/tools-build-with-cli
-	url = git@github.com:mcci-catena/tools-build-with-cli.git
-[submodule "extras/dfu-util"]
-	path = extras/dfu-util
-	url = git@gitlab-x.mcci.com:vendor/dfu-util/dfu-util.git
 [submodule "sketches/Catena4610_FED3"]
 	path = sketches/Catena4610_FED3
-	url = git@github.com:dhineshkumarmcci/Catena4610_FED3.git
-[submodule "Catena4610_FED3"]
-	path = Catena4610_FED3
 	url = git@github.com:dhineshkumarmcci/Catena4610_FED3.git
