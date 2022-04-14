@@ -22,3 +22,15 @@
 [submodule "sketches/Catena4610_FED3"]
 	path = sketches/Catena4610_FED3
 	url = git@github.com:dhineshkumarmcci/Catena4610_FED3.git
+[submodule "extra/Arduino_Core_STM32"]
+	path = extra/Arduino_Core_STM32
+	url = git@github.com:mcci-catena/Arduino_Core_STM32.git
+[submodule "extra/bootloader"]
+	path = extra/bootloader
+	url = git@github.com:mcci-catena/bootloader.git
+[submodule "extra/tools-build-with-cli"]
+	path = extra/tools-build-with-cli
+	url = git@github.com:mcci-catena/tools-build-with-cli.git
+[submodule "extra/dfu-util"]
+	path = extra/dfu-util
+	url = git@gitlab-x.mcci.com:vendor/dfu-util/dfu-util.git
