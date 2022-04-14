@@ -1,0 +1,39 @@
+[submodule "libraries/Adafruit_BME280_Library"]
+	path = libraries/Adafruit_BME280_Library
+	url = git@github.com:mcci-catena/Adafruit_BME280_Library.git
+[submodule "libraries/Adafruit_Sensor"]
+	path = libraries/Adafruit_Sensor
+	url = git@github.com:mcci-catena/Adafruit_Sensor.git
+[submodule "libraries/Catena-Arduino-Platform"]
+	path = libraries/Catena-Arduino-Platform
+	url = git@github.com:mcci-catena/Catena-Arduino-Platform.git
+[submodule "libraries/arduino-lorawan"]
+	path = libraries/arduino-lorawan
+	url = git@github.com:mcci-catena/arduino-lorawan.git
+[submodule "libraries/Catena-mcciadk"]
+	path = libraries/Catena-mcciadk
+	url = git@github.com:mcci-catena/Catena-mcciadk.git
+[submodule "libraries/MCCI_FRAM_I2C"]
+	path = libraries/MCCI_FRAM_I2C
+	url = git@github.com:mcci-catena/MCCI_FRAM_I2C.git
+[submodule "libraries/arduino-lmic"]
+	path = libraries/arduino-lmic
+	url = git@github.com:mcci-catena/arduino-lmic.git
+[submodule "extras/Arduino_Core_STM32"]
+	path = extras/Arduino_Core_STM32
+	url = git@github.com:mcci-catena/Arduino_Core_STM32.git
+[submodule "extras/bootloader"]
+	path = extras/bootloader
+	url = git@github.com:mcci-catena/bootloader.git
+[submodule "extras/tools-build-with-cli"]
+	path = extras/tools-build-with-cli
+	url = git@github.com:mcci-catena/tools-build-with-cli.git
+[submodule "extras/dfu-util"]
+	path = extras/dfu-util
+	url = git@gitlab-x.mcci.com:vendor/dfu-util/dfu-util.git
+[submodule "sketches/Catena4610_FED3"]
+	path = sketches/Catena4610_FED3
+	url = git@github.com:dhineshkumarmcci/Catena4610_FED3.git
+[submodule "Catena4610_FED3"]
+	path = Catena4610_FED3
+	url = git@github.com:dhineshkumarmcci/Catena4610_FED3.git

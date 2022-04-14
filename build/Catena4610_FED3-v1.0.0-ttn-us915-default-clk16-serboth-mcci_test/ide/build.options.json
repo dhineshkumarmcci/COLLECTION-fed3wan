@@ -1,0 +1,12 @@
+{
+  "additionalFiles": "..,..,..,..,..,..,..,../..",
+  "builtInLibrariesFolders": "/home/dhinesh/Downloads/arduino-1.8.13/libraries",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "build.warn_data_percentage=75",
+  "fqbn": "mcci:stm32:mcci_catena_4610:upload_method=STLink,xserial=usbhwserial,sysclk=hsi16m,boot=trusted,opt=osstd,lorawan_region=us915,lorawan_network=ttn,lorawan_subband=default",
+  "hardwareFolders": "/home/dhinesh/.arduino15/packages",
+  "otherLibrariesFolders": "/home/dhinesh/MCCI-IoT/Wakefield/20220408/COLLECTION-fed3wan/libraries,/home/dhinesh/Arduino/libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "/home/dhinesh/MCCI-IoT/Wakefield/20220408/COLLECTION-fed3wan/sketches/Catena4610_FED3/Catena4610_FED3.ino"
+}
